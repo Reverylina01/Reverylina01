@@ -23,3 +23,6 @@ I am a full-stack developer with experience in JavaScript, React, Node.js, and M
 ## 👨‍💻 Some of my projects
 - [Project 1](https://github.com/your-username/project-1)
 - [Project 2](https://github.com/your-username/project-2)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true)
