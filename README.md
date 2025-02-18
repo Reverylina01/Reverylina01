@@ -42,7 +42,7 @@ Welcome to my GitHub profile! Here, you can find my open-source projects, coding
 ---
 
 # 🎵 Now Playing
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id)
+![Spotify](https://open.spotify.com/album/5DycDHoDa3Kihx82xFd7A3)
 
 ---
 
