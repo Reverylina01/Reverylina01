@@ -46,7 +46,7 @@
 
 ## 🎵 Currently Playing  
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-id" />
+  <img src="https://open.spotify.com/track/70fA3vjK2r6kpHrN6adr9q?si=0731675a1a064e06" />
 </p>
 
 ---
