@@ -20,6 +20,8 @@ I am a full-stack developer with experience in JavaScript, React, Node.js, and M
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reverylina01&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Reverylina01&theme=dark)
+![Header](https://raw.githubusercontent.com/Reverylina01/Reverylina01/main/banner.png)
+
 
 
 ## 📈 GitHub Stats
