@@ -18,7 +18,7 @@
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/linadas1"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/linadas1"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://dev.to/yourprofile"><img src="https://img.shields.io/badge/DEV.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
