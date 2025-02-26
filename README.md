@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Full-Stack Projects**  
-- 🌱 Learning **TypeScript, GraphQL, and Cloud Technologies**  
-- 💬 Ask me about **JavaScript, React,Node.js,MongoDB, UI/UX**  
+- 🔭 Currently working on **React**  
+- 🌱 Learning **React-Native, and Cloud Technologies**  
+- 💬 Ask me about **JavaScript,React,Node.js,MongoDB,UI/UX**  
 - 📫 Reach me at: **[linadas970@gmail.com](mailto:linadas970@gmail.com)**  
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 ## 🌟 Featured Projects  
-🚀 **[Project 1](https://github.com/your-username/project-1)** – A powerful web application for **XYZ functionality**  
+🚀 **[Project 1](https://github.com/Reverylina01/Online-Examintion-Systems-MERN)** – Online-Examination-Systems **React**  
 🎨 **[Project 2](https://github.com/your-username/project-2)** – A modern UI/UX based project using **React & TailwindCSS**  
 
 ---
