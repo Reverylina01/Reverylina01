@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 Currently working on **React**  
+- 🔭 Currently working on **React-Native**  
 - 🌱 Learning **React-Native, and Cloud Technologies**  
 - 💬 Ask me about **JavaScript,React,Node.js,MongoDB,UI/UX**  
 - 📫 Reach me at: **[linadas970@gmail.com](mailto:linadas970@gmail.com)**  
