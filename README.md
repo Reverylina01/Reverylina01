@@ -53,9 +53,7 @@
 
 ### 🚀 [Online Examination System – MERN](https://github.com/Reverylina01/Online-Examintion-Systems-MERN)  
 📌 A scalable MERN-stack based online test platform with intuitive admin & user flows.  
-
-### 🎨 [UI/UX Portfolio Project](https://github.com/your-username/project-2)  
-📌 A clean and modern design system built with **React** & **TailwindCSS** for UI-focused apps.  
+ 
 
 ### 📱 [React Native Mobile App](https://github.com/your-username/project-3)  
 📌 Cross-platform app built with **React Native** + **Firebase** for real-time functionality.  
