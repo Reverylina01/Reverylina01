@@ -1,7 +1,9 @@
+<!-- Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Lina+Das+👋;Full-Stack+Developer+🚀;React+|+Node.js+|+MongoDB+|+React-Native;Building+scalable+and+intuitive+apps+🔥">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Lina+Das+👋;Full-Stack+Developer+🚀;MERN+Stack+%7C+React+Native+%7C+Cloud;Building+Scalable+and+Intuitive+Apps+🔥;Always+Learning+%7C+Always+Growing+🌱">
 </h1>
 
+<!-- Hero GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding gif">
 </p>
@@ -9,44 +11,40 @@
 ---
 
 ## 🚀 About Me  
-🎯 Full-stack developer passionate about building intuitive, scalable applications  
-🧠 Currently working with **React Native** & exploring **Cloud and DevOps tools**  
-💬 Ask me about: `JavaScript`, `React`, `Node.js`, `MongoDB`, `UI/UX`, `APIs`, `Mobile Dev`  
-📬 Reach out: [linadas970@gmail.com](mailto:linadas970@gmail.com)
+- 🎯 Full-stack developer passionate about **building intuitive, scalable apps**  
+- 🧠 Exploring **React Native, Cloud, and DevOps tools**  
+- 💡 Strong focus on **UI/UX + Performance Optimization**  
+- 📚 Always learning: `AI Integration`, `Microservices`, `Docker/Kubernetes`  
+- 📬 Contact me: **[linadas970@gmail.com](mailto:linadas970@gmail.com)**  
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://linkedin.com/in/linadas1"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="[https://dev.to/yourprofile](https://linadas.netlify.app/)"><img src="https://img.shields.io/badge/DEV.to-%23000000.svg?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/linadas1"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://twitter.com/your-username"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://linadas.netlify.app/"><img src="https://skillicons.dev/icons?i=devto" width="40"/></a>
+  <a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=chrome" width="40"/></a>
+  <a href="mailto:linadas970@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
 
 ## 🧰 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,express,mongodb,python,django,html,css,tailwind,bootstrap,figma,git,github,linux,vscode,postman,redux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,express,mongodb,mysql,python,django,html,css,tailwind,bootstrap,figma,git,github,linux,vscode,postman,redux,docker,kubernetes,aws" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics  
+## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reverylina01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reverylina01&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reverylina01&bg_color=1a1b27&color=6a9fb5&line=61dafb&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reverylina01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reverylina01&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-## 🎧 Now Playing on Spotify  
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username" alt="Spotify Playing" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reverylina01&theme=tokyonight" />
 </p>
 
 ---
@@ -54,17 +52,44 @@
 ## 🌟 Featured Projects  
 
 ### 🚀 [Online Examination System – MERN](https://github.com/Reverylina01/Online-Examintion-Systems-MERN)  
-A scalable MERN-stack based online test platform with intuitive admin & user flows.
+📌 A scalable MERN-stack based online test platform with intuitive admin & user flows.  
 
 ### 🎨 [UI/UX Portfolio Project](https://github.com/your-username/project-2)  
-A clean and modern design system built with **React** & **TailwindCSS** for UI-focused applications.
+📌 A clean and modern design system built with **React** & **TailwindCSS** for UI-focused apps.  
+
+### 📱 [React Native Mobile App](https://github.com/your-username/project-3)  
+📌 Cross-platform app built with **React Native** + **Firebase** for real-time functionality.  
 
 ---
 
-## 🏆 Fun Facts  
+## 🎵 Now Playing on Spotify  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+---
+
+## 📚 My Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- 🚀 How to Build a Scalable MERN App  
+- 🎨 Best Practices for Responsive UI with TailwindCSS  
+- 🛠️ Debugging Axios & Backend Errors in React  
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Reverylina01&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🏅 Fun Facts  
 - 🤖 Love **learning & solving problems with code**  
-- 🎨 Passionate about **building great UI/UX experiences**  
-- 📈 Actively contributing to **open-source projects**
+- 🎨 Obsessed with **UI/UX perfection**  
+- 🌎 Dreaming of **scalable apps used worldwide**  
+- ⚡ Motto: *Code. Learn. Repeat.*  
 
 ---
 
@@ -75,5 +100,5 @@ A clean and modern design system built with **React** & **TailwindCSS** for UI-f
 
 ---
 
-### 🚀 Thanks for stopping by!  
-✨ Feel free to **star my repositories**, **follow**, and **connect** with me! Let’s build something awesome together 🚀🔥
+<h3 align="center">✨ Thanks for visiting! ✨<br/>  
+Feel free to ⭐ my repos, follow, and connect. Let’s build something amazing together 🚀🔥</h3>
