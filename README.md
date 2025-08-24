@@ -60,12 +60,7 @@
 
 ---
 
-## 🎵 Now Playing on Spotify  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
-</p>
 
----
 
 ## 📚 My Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -76,12 +71,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Reverylina01&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 🏅 Fun Facts  
 - 🤖 Love **learning & solving problems with code**  
@@ -91,12 +80,7 @@
 
 ---
 
-## 😂 Random Dev Meme  
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="500px" alt="Random meme" />
-</p>
 
----
 
 <h3 align="center">✨ Thanks for visiting! ✨<br/>  
 Feel free to ⭐ my repos, follow, and connect. Let’s build something amazing together 🚀🔥</h3>
